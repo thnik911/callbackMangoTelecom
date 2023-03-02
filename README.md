@@ -38,5 +38,5 @@ prioritet - Если процесс запускается первый раз, 
 
 1. Действие Webhook внутри Бизнес-процесса / робота https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=57&LESSON_ID=8551
 2. Как создать Webhook https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=99&LESSON_ID=8581&LESSON_PATH=8771.8583.8581
-3. Документация по работе API Mango Office: 
+3. Документация по работе API Mango Office: https://www.mango-office.ru/upload/medialibrary/68c/MangoOffice_VPBX_API_v1.9.pdf
 </details>
