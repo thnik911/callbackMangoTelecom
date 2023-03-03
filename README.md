@@ -22,7 +22,7 @@
 
 Переменные передаваемые в POST запросе:
 
-yourdomain.com - адрес сайта, на котором размещены скрипты auth.php и invioceAdd.php с поддержкой SSL.
+yourdomain.com - адрес сайта, на котором размещены скрипты auth.php и callbackMangoTelecom.php с поддержкой SSL.
 
 path - путь до скрипта.
 
